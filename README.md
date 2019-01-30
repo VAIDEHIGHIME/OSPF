@@ -16,7 +16,7 @@ This project is an implementation of such a Routing protocol considering a parti
 
 ## Output
 ```
-                Destinition                         |       Cost                         |        Hop
+                Destinition                            |       Cost                         |        Hop
 ----------------------------------------------------------------------------------------------------------------
                              A                         |          0                         |          _
                              D                         |          2                         |          D
