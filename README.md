@@ -26,4 +26,14 @@ B                |          3           |          B
 C                |          4           |          B
 
 
+### Routing Table for Node B
+
+ Destinition     |      Cost            |        Hop
+---------------- |  ------------------- |     ---------
+B                |          0           |          _
+C                |          1           |          C
+A                |          3           |          A
+D                |          5           |          C
+
+
 
