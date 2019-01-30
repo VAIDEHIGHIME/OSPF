@@ -1,6 +1,13 @@
 # OSPF
-Implementing OSPF in JAVA
-1}run RouterA.java
-2}RouterB.java
-3}RouterC.java
-4}RouterD.java
+```
+A Routing protocol Implementation in java using the UDP Sockets.
+```
+```
+Open source path first constitutes 2 parts :
+```
+ * Reliable flooding 
+ * Finding the shortest path 
+ ```
+The Algorithm used for finding the shortest path is the Dijkstra's Algorithm with a little modification.
+This project is an implementation of such a Routing protocol considering a particular network Instance.
+```
