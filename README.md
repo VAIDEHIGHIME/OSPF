@@ -15,23 +15,15 @@ This project is an implementation of such a Routing protocol considering a parti
 ![Alt text](nw.png?raw=true "Screen-Shot")
 
 ## Output
-```
-                Destinition                            |       Cost                         |        Hop
-----------------------------------------------------------------------------------------------------------------
-                             A                         |          0                         |          _
-                             D                         |          2                         |          D
-                             B                         |          3                         |          B
-                             C                         |          4                         |          B
 
-```
-```
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-```
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+###Routing Table for Node A
+
+ Destinition     |      Cost            |        Hop
+---------------- |  ------------------- |     ---------
+A                |          0           |          _
+D                |          2           |          D
+B                |          3           |          B
+C                |          4           |          B
+
+
 
