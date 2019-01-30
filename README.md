@@ -11,3 +11,6 @@ Open source path first constitutes 2 parts :
 The Algorithm used for finding the shortest path is the Dijkstra's Algorithm with a little modification.
 This project is an implementation of such a Routing protocol considering a particular network Instance.
 ```
+## Network Topography
+![Alt text](nw.png?raw=true "Screen-Shot")
+
