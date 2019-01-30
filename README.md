@@ -14,3 +14,13 @@ This project is an implementation of such a Routing protocol considering a parti
 ## Network Topography
 ![Alt text](nw.png?raw=true "Screen-Shot")
 
+## Output
+```
+                Destinition                         |       Cost                         |        Hop
+----------------------------------------------------------------------------------------------------------------
+                             A                         |          0                         |          _
+                             D                         |          2                         |          D
+                             B                         |          3                         |          B
+                             C                         |          4                         |          B
+
+```
